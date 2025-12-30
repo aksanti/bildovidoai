@@ -1,0 +1,7 @@
+{
+  "name": "Bildovido AI - Professional Product Enhancer",
+  "description": "Transform casual product photos into ultra-realistic, 4K professional studio shots using the latest Gemini vision models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
